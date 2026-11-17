@@ -13,9 +13,6 @@
 ## 👩‍💻 PROFILE
 
 Ingénieure en informatique, spécialité **Intelligence Artificielle et Data**. Passionnée par la construction de systèmes intelligents et de solutions basées sur l'IA.
-
-Je mobilise mes compétences en **développement, en IA et en traitement des données** pour contribuer à des projets concrets au sein d'une équipe technique.
-
 ---
 
 ## 🧠 AREAS OF EXPERTISE
