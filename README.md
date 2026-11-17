@@ -82,7 +82,7 @@ Ingénieure en informatique spécialisée en **Intelligence Artificielle et Data
 ## 🤝 Contact
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/lina-moussaoui-7b843a325/](https://www.linkedin.com/in/linamoussaoui/)">
+  <a href="https://www.linkedin.com/in/linamoussaoui/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:linamoussaouiii@gmail.com">
