@@ -3,7 +3,7 @@
 ### Ingénieure en Informatique | Intelligence Artificielle & Data
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieure+en+Informatique;Intelligence+Artificielle+%26+Data;RAG+%7C+GraphRAG+%7C+LLMs;Data+Engineering+%7C+Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Engineer;RAG+%7C+GraphRAG+%7C+LLMs+%7C+CNN;Data+Engineering+%7C+Big+Data;Casablanca%2C+Morocco" alt="Typing SVG" />
 </p>
 
 📍 Casablanca, Maroc &nbsp;|&nbsp; 🎓 EMSI Casablanca (AI & Data)
